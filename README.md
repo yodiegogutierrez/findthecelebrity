@@ -7,7 +7,7 @@ In a team of n people, a celebrity is known by everyone but he/she doesn't know 
 
 
 ## How it works
-A group of people is dancing and having good time in a party. The host, ask to assistences write their names in a list, followed
+A group of people is dancing and having good time in a party. The host, ask assistences to write their names in a list, followed
 by the names of known people present in the party. In this party, there's a celebrity. The host wants to know who she/he is.
 
 This is an example of this list:
