@@ -2,59 +2,42 @@
 
 Project for technical interview
 
-## Getting Started
+## Description
+In a team of n people, a celebrity is known by everyone but he/she doesn't know anybody.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
 
-### Prerequisites
+### Technical Requirements
 
-This project works with Java 8 and Maven
+* Use Maven and JUnit
+* Use OOP and good practices
+* Use your creativity for modeling a real scenario
+* Use external source for data
 
-```
-Give examples
-```
 
-### Installing
+## How it works
+A group of people is dancing and having good time in a party. The host, ask to assistences write their names in a list, followed
+by the names of known people present in the party. In this party, there's a celebrity. The host wants to know who she/he is.
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+This is an example of this list:
 
 ```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+michael,josh,carl,mia
+mia,carl,josh
+carl
+josh,mia,michael,carl
 
 ```
-Give an example
-```
+In the example above, the celebrity is carl. He doesn't know to anyone and everybody know him.
 
-### And coding style tests
 
-Explain what these tests test and why
+### Rules
 
-```
-Give an example
-```
+* This project works on console. When you compile the code, it will ask you for a path in your operative system where the txt file is located.
 
-## Deployment
+* Please check carefully how this document is built. Please do not repeat names in the first column on each row, and use only the names defined in the first column on each row.
 
-Add additional notes about how to deploy this on a live system
+* Do not use blank spaces after or before of a name or a comma.
+
 
 ## Built With
 
