@@ -6,14 +6,6 @@ Project for technical interview
 In a team of n people, a celebrity is known by everyone but he/she doesn't know anybody.
 
 
-### Technical Requirements
-
-* Use Maven and JUnit
-* Use OOP and good practices
-* Use your creativity for modeling a real scenario
-* Use external source for data
-
-
 ## How it works
 A group of people is dancing and having good time in a party. The host, ask to assistences write their names in a list, followed
 by the names of known people present in the party. In this party, there's a celebrity. The host wants to know who she/he is.
